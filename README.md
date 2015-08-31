@@ -1,12 +1,12 @@
-# cachebust
+# cachebustrel
 
 This is a fork of furzeface/cachebust with just one minor modification. This appends "rel" instead of "t" to the querystring.
 > Append a query string to your assets to bust that cache!
 
 ## Getting Started
 ```sh
-npm install -g cachebust
-cachebust --version
+npm install -g cachebustrel
+cachebustrel --version
 ```
 
 ## Contributing
