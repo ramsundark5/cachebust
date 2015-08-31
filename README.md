@@ -1,5 +1,6 @@
 # cachebust
 
+This is a fork of furzeface/cachebust with just one minor modification. This appends "rel" instead of "t" to the querystring.
 > Append a query string to your assets to bust that cache!
 
 ## Getting Started
