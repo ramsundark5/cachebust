@@ -1,5 +1,5 @@
 {
-  "name": "cachebust",
+  "name": "cachebustrel",
   "version": "1.0.2",
   "main": "lib/cachebust.js",
   "description": "Append a query string to your assets to bust that cache!",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/furzeface/cachebust"
+    "url": "https://github.com/ramsundark5/cachebust"
   },
   "license": "MIT",
   "keywords": [
